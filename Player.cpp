@@ -4,6 +4,7 @@
 
 #include "Player.h"
 #include "libs/doudizhu.h"
+#include <algorithm>
 using namespace std;
 
 Player::Player() {
