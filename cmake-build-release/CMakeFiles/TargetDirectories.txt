@@ -1,0 +1,3 @@
+/Users/chenziang/CLionProjects/DouDiZhu/cmake-build-release/CMakeFiles/DouDiZhu.dir
+/Users/chenziang/CLionProjects/DouDiZhu/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/chenziang/CLionProjects/DouDiZhu/cmake-build-release/CMakeFiles/rebuild_cache.dir
